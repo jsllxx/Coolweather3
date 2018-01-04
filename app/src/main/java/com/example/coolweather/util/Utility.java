@@ -10,10 +10,6 @@ import org.json.JSONArray;
 import org.json.JSONException;
 import org.json.JSONObject;
 
-/**
- * Created by jsllx on 2018/1/3.
- */
-
 public class Utility {
 
     /**
@@ -83,8 +79,5 @@ public class Utility {
         }
         return false;
     }
-
-
-
 }
 

@@ -3,12 +3,6 @@ package com.example.coolweather.util;
 import okhttp3.OkHttpClient;
 import okhttp3.Request;
 
-/**
- * Created by jsllx on 2018/1/3.
- */
-
-
-
 public class HttpUtil {
 
     public static void sendOkHttpRequest(String address, okhttp3.Callback callback) {
@@ -18,4 +12,5 @@ public class HttpUtil {
     }
 
 }
+
 
